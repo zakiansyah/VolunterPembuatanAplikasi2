@@ -7,3 +7,4 @@ silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format beri
 
 Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Zakiansyah, [Linkedin] (https://www.linkedin.com/in/zaki-ansyah-5b5b85225/)
